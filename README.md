@@ -48,3 +48,6 @@ https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning
 
 # NVIDIA DEEP LEARNING CONTEST 2016 : 딥러닝을 이용한 음식 영상 분류
 https://www.gputechconf.co.kr/assets/files/presentations/2-1650-1710_DL_Contest_%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C_%EB%8C%80%EC%83%81.pdf
+
+# Image Data Processing
+https://keras.io/api/preprocessing/image/
